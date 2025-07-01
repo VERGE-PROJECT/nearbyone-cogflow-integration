@@ -1,5 +1,7 @@
 # Informer Time-Series Forecasting with CogFlow Integration
 
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 A comprehensive implementation of the Informer transformer model for time-series forecasting, integrated with CogFlow for experiment tracking, model management, and automated deployment on Kubernetes with KServe.
 
 ## Overview
